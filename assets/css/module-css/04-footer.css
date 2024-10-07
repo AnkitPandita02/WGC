@@ -157,7 +157,7 @@
     box-shadow: none !important;
 }
 .checkbox-input label{
-    color: var(--black-color);
+    color: #000000;
 }
 .footer-contact-info{
     margin-top: 20px;
