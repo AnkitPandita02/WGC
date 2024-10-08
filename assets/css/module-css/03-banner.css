@@ -673,7 +673,7 @@ common banner
     text-align: center;
 }
 .common-banner-content h3{
-    color: var(--black-color);
+    color: var(--primary-color);
     font-size: 48px;
     font-weight: 600;
     line-height: 56px;
